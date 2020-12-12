@@ -1,1 +1,1 @@
-Creando imagen personalizada de Docker
+Creado una prueba de uso de Python en Ubuntu usando Dockerfile
